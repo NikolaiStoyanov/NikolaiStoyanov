@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikolaiStoyanov
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning about javascript
-- 💞️ I’m looking to collaborate on javascript
+- 💞️ I’m looking to collaborate here
 - 📫 How to reach me nikolai.t.stoyanov@gmail.com
 
 <!---
